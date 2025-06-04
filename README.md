@@ -1,6 +1,6 @@
 ## Description 
 
-####Laravel 9 Starter template for Multi-language projects based on PlainAdmin Bootstrap 5 admin template
+####Laravel 9 Pendaftaran Pasien dan Reservasi Data V.1
 
 ## Requirements
 
